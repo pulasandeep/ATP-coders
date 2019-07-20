@@ -1,5 +1,31 @@
-# ATP-coders
-Problem Statement 2 for IBM hack challenge
-Identification of User Query on Stack Overflow Using Semantic Search Stack Overflow is a question and answer site for professional and enthusiast programmers. It's built and run by the community of developer, as part of the Stack Exchange network of Q&amp;A sites. A lot of content is present in form of stack overflow questions and answers, various studies point that developers face problems while development life cycles and they ask questions on stack overflow which gets answered by fellow developers across the globe. In order for a new developer to understand a concept or solve an issue, it is very difficult to identify the problems. It involves domain experts in form of experienced software developers. The information present is overwhelming and at times can be too much to handle for a budding developer. Problem Description 1. To identify most relevant questions to a query [text similarity] 2. Identify the matching tags and pick top relevant questions from stack overflow. 3. To identify top k solutions of the problem. (sentiment analysis of review content) Data can be obtained using Stack overflow API. Expectation The solution should have a mechanism to identify relevant questions on stack overflow with tags and top k relevant answers that should be provided to user. So that he can understand the concept clearly and try to get his queries resolved more effectively and efficiently. Listed below are the few challenges which can provide an insight about designing and
-finding the solution:
-▪ Stack overflow only gives exact match queries...
+Important Chat : We are just providing a sample code for some questions at the instance to question our code just have a look over have_a_look.pdf file attached above.
+
+Note: Please split the code to sub programs as we specify in the code block as above and save them as an individual programs with the extentions listed there itself.
+
+Our code is just a console based. entire project will be submitted as soon as we enter into shortlisted cader...
+
+As we explained our theme of ideology in the discription above if you people din not registered our idea yet please connect once again over documentation file.
+
+Lets go to step by step procedure dealing with program's.
+
+As we specified in documentation our idea has 2 different ways to be exicutable in this link right now.
+
+We sincerely suggest to use pycharm ide in order to work with these programs on a glance
+
+Method 1 : Using basic.py and pack.py programs
+
+>>> Open basic.py program
+>>> Run the program by alt+shift+f10 on windows if you are using pycharm
+>>> There you will get the interface in console that "enter what you want to search"
+>>> Now enter your question
+>>> Bingo ! here you get the answer for your question...
+
+
+Method 2 : Using demo.py and Book1.xlsx
+
+>>> Open demo.py program
+>>> Run the program by alt+shift+f10 on windows if you are using pycharm
+>>> There you will get the interface in console that "enter what you want to search"
+>>> Now enter your question
+>>> Bingo ! here you get the answer for your question...
+
