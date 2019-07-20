@@ -1,10 +1,10 @@
-Important Chat : We are just providing a sample code for some questions at the instance to question our code just have a look over ATP coders.pdf file attached above.
+Important Chat : We are just providing a sample code for some questions at the instance to question our code just have a look over ATP have_a_look.pdf file attached above.
 
 Note: Please split the code to sub programs as we specify in the code block as above and save them as an individual programs with the extentions listed there itself.
 
 Our code is just a console based. entire project will be submitted as soon as we enter into shortlisted cader...
 
-As we explained our theme of ideology in the discription above if you people din not registered our idea yet please connect once again over documentation file.
+As we explained our theme of ideology in the discription above if you people din not registered our idea yet please connect once again over documentation file(ATP CODERS.pdf).
 
 Lets go to step by step procedure dealing with program's.
 
