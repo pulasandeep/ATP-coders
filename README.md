@@ -4,7 +4,7 @@ Note: Please split the code to sub programs as we specify in the code block as a
 
 Our code is just a console based. entire project will be submitted as soon as we enter into shortlisted cader...
 
-As we explained our theme of ideology in the discription above if you people din not registered our idea yet please connect once again over documentation file(ATP CODERS.pdf).
+As we explained our theme of ideology in the discription above if you people din not registered our idea yet please connect once again over documentation file(the idea.pdf).
 
 Lets go to step by step procedure dealing with program's.
 
