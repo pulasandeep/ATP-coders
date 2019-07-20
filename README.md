@@ -14,18 +14,18 @@ We sincerely suggest to use pycharm ide in order to work with these programs on 
 
 Method 1 : Using basic.py and pack.py programs
 
->>> Open basic.py program
->>> Run the program by alt+shift+f10 on windows if you are using pycharm
->>> There you will get the interface in console that "enter what you want to search"
->>> Now enter your question
->>> Bingo ! here you get the answer for your question...
+ Open basic.py program
+ Run the program by alt+shift+f10 on windows if you are using pycharm
+ There you will get the interface in console that "enter what you want to search"
+ Now enter your question
+ Bingo ! here you get the answer for your question...
 
 
 Method 2 : Using demo.py and Book1.xlsx
 
->>> Open demo.py program
->>> Run the program by alt+shift+f10 on windows if you are using pycharm
->>> There you will get the interface in console that "enter what you want to search"
->>> Now enter your question
->>> Bingo ! here you get the answer for your question...
+ Open demo.py program
+ Run the program by alt+shift+f10 on windows if you are using pycharm
+ There you will get the interface in console that "enter what you want to search"
+ Now enter your question
+ Bingo ! here you get the answer for your question...
 
